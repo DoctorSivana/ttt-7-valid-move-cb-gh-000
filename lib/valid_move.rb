@@ -4,7 +4,7 @@ def valid_move?(board , index)
 
     board[index] == "X"
   else false
-
+  end
 end
 
 
